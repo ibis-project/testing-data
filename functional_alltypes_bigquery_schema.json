@@ -1,0 +1,77 @@
+[
+    {
+        "mode": "NULLABLE",
+        "name": "index",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "Unnamed_0",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "id",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "bool_col",
+        "type": "BOOLEAN"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "tinyint_col",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "smallint_col",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "int_col",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "bigint_col",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "float_col",
+        "type": "FLOAT"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "double_col",
+        "type": "FLOAT"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "date_string_col",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "string_col",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "timestamp_col",
+        "type": "TIMESTAMP"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "year",
+        "type": "INTEGER"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "month",
+        "type": "INTEGER"
+    }
+]
